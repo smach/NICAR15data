@@ -5,5 +5,5 @@ date: "March 10, 2015"
 output: html_document
 ---
 
-This is a collection of data files used with my presentations at the NICAR Computer Assisted Reporting conference, March 2015.
+This is a collection of data files used with my sessions at the NICAR Computer Assisted Reporting conference, March 2015. See the presentation on Useful New Packages in R at http://cwrld.us/NewRpkgs
 
