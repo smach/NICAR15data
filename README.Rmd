@@ -1,0 +1,9 @@
+---
+title: "README.md"
+author: "Sharon Machlis"
+date: "March 10, 2015"
+output: html_document
+---
+
+This is a collection of data files used with my presentations at the NICAR Computer Assisted Reporting conference, March 2015.
+
